@@ -9,10 +9,12 @@
 <samp>
 I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, Please feel free to give me some ❤❤ on mail 📫. Feel free to reach out in case you want to just get in touch also.
 </samp>
-
+<!-- 
 ##### Skills: REACT / JS / HTML / CSS / Php / MySql / React Native / Python
-<h4 align="center">Skills</h4>
+<h4 align="center">Skills</h4> -->
 
+
+| | ##### Skills | |
 | --- | --- | --- |
 | React | Php | API |
 | React Native | Laravel | Image Processing |
@@ -21,6 +23,7 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 | HTML | Relational Database | UiUx Design |
 | CSS | JSON | Figma |
 | Bootstrap | Git | Github |
+
 
 
 
