@@ -11,20 +11,19 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 </samp>
 
 ##### Skills: REACT / JS / HTML / CSS / Php / MySql / React Native / Python
-<div>
-        <h4 align="center">Skills</h4>
+<h4 align="center">Skills</h4>
 
-<table class="table">
-    <thead>
-        <tr>
-            <th align="center" width="25%">Frontend</th>
-            <th align="center">Backend</th>
-            <th align="center">Database</th>
-            <th align="center">Tools</th>
-        </tr>
-    </thead>
-</table>
-</div>
+| --- | --- | --- |
+| React | Php | API |
+| React Native | Laravel | Image Processing |
+| JavaScript | Python | OpenCv |
+| Jquery | MySql | Adobe XD |
+| HTML | Relational Database | UiUx Design |
+| CSS | JSON | Figma |
+| Bootstrap | Git | Github |
+
+
+
 
 - 🔭 I’m currently working on Parliament Web Application
 - 🌱 I’m currently learning React / React Native / MongoDB
