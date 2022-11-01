@@ -45,8 +45,6 @@ I have a passion for learning and sharing my knowledge with others as publicly a
                 <td>⭐⭐⭐⭐⭐</td>
                 <td>API</td>
                 <td>⭐⭐⭐⭐</td>
-                <td>API</td>
-                <td>⭐⭐⭐⭐</td>
             <tr>
             <tr>
                 <td>React Native</td>
