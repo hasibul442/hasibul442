@@ -11,6 +11,20 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 </samp>
 
 ##### Skills: REACT / JS / HTML / CSS / Php / MySql / React Native / Python
+<div>
+        <h4 align="center">Skills</h4>
+
+<table>
+<thead>
+<tr>
+    <th align="center">Frontend</th>
+    <th align="center">Backend</th>
+    <th align="center">Database</th>
+    <th align="center">Tools</th>
+</tr>
+</thead>
+</table>
+</div>
 
 - 🔭 I’m currently working on Parliament Web Application
 - 🌱 I’m currently learning React / React Native / MongoDB
@@ -20,7 +34,7 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 - 😄 Pronouns: Shuvo
 - ⚡ Fun fact: Thinking More
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulhasan442&layout=compact)](
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hasibul442) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/hasibul442) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammad-hasibul-hasan/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hasibulhasan442) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14517073)
 
