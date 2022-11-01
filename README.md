@@ -1,9 +1,11 @@
 <div align="center">
 <span align="center">Hi there 👋</span>
-
+<span align="center">This is</span>
 </div>
-<small>This is</small><h1 align="center">Mohammad Hasibul Hasan</h1>
-<h5 align="center">I am Full Stack Developer looking to solve real world problems</h5>
+<div>
+<h1 align="center">Mohammad Hasibul Hasan</h1>
+<h6 align="center">I am Full Stack Developer looking to solve real world problems</h6>
+</div>
 I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, Please feel free to give me some ❤❤ on mail 📫. Feel free to reach out in case you want to just get in touch also.
 
 Skills: REACT / JS / HTML / CSS / Php / MySql / React Native / Python
