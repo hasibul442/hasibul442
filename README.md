@@ -25,7 +25,7 @@ I have a passion for learning and sharing my knowledge with others as publicly a
         <li>⚡ Fun fact: Thinking More</li>
     </ul>
 </div>
-<div align="left">
+<div align="center">
     <table>
         <thead>
             <tr>
