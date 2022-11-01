@@ -3,7 +3,9 @@
 <span align="center">This is</span>
 </div>
 <div>
-<h1 align="center">Mohammad Hasibul Hasan</h1>
+<h1 align="center">Mohammad Hasibul Hasan<br />
+    <img src="https://gpvc.arturio.dev/hasibul442" alt="hasibulhasan442" />
+    </h1>
 <h6 align="center">I am Full Stack Developer looking to solve real world problems</h6>
 </div>
 <samp>
@@ -13,21 +15,21 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 <br />
 <br />
 
-<p align="left">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=hasibul442" alt="hasibulhasan442" height="30" width="40" />
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasibul442&show_icons=true&count_private=true" alt="hasibulhasan442" width="330" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasibul442" alt="hasibulhasan442" width="330" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasibul442&show_icons=true&locale=en&layout=compact" alt="hasibulhasan442" width="300" />
+    
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hasibul442)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=hasibul442" alt="hasibulhasan442" width="500" />
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=hasibul442" alt="hasibulhasan442" width="500" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibul442)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasibul442&show_icons=true&count_private=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hasibul442)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hasibul442)
-
-![Profile views](https://gpvc.arturio.dev/hasibul442)
 
 
 
