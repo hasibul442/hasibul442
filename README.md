@@ -97,22 +97,16 @@ I have a passion for learning and sharing my knowledge with others as publicly a
         </tbody>
     </table>
 </div>
-
-
-
-
-<p>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>(https://github.com/hasibul442) 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='20'>(https://dev.to/hasibul442) 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'>(https://stackoverflow.com/users/14517073)
-</p>
-
+<div align="center">
+    <h3>📊 Weekly Development Breakdown</h3>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hasibul442&layout=compact" />
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hasibulhasan442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasibulhasan442" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammad-hasibul-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-hasibul-hasan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14517073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14517073" height="30" width="40" /></a>
-<a href="https://dev.to/hasibul442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dev.svg" alt="hasibul442" height="30" width="40" /></a>
+<a href="https://dev.to/hasibul442" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hasibul442" height="30" width="40" /></a>
 </p>
 
 
