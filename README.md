@@ -16,8 +16,8 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 <br />
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasibul442&show_icons=true&count_private=true" alt="hasibulhasan442" width="300" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasibul442" alt="hasibulhasan442" width="300" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasibul442&show_icons=true&count_private=true" alt="hasibulhasan442" width="280" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasibul442" alt="hasibulhasan442" width="280" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasibul442&show_icons=true&locale=en&layout=compact" alt="hasibulhasan442" width="300" />
     
 </p>
