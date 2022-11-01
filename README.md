@@ -23,8 +23,8 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=hasibul442" alt="hasibulhasan442" width="320" />
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=hasibul442" alt="hasibulhasan442" width="320" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=hasibul442" alt="hasibulhasan442" width="330" />
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=hasibul442" alt="hasibulhasan442" width="330" />
 </p>
 
 
