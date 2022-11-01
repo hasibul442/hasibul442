@@ -13,24 +13,93 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 <br />
 <br />
 
-##### 🔭 I’m currently working on Parliament Web Application<br />
-##### 🌱 I’m currently learning React / React Native / MongoDB<br />
-##### 👯 I’m looking to collaborate on Open Source Project<br />
-##### 💬 Ask me about Laravel, MySql, Relational Database<br />
-##### 📫 How to reach me: hasibulhasan442@gmail.com<br />
-##### 😄 Pronouns: Shuvo<br />
-##### ⚡ Fun fact: Thinking More
-<br /> <br />
 
-|               | Skills                |                   |
-| ---           | ---                   | ---               |
-| React         | Php                   | API               |
-| React Native  | Laravel               | Image Processing  |
-| JavaScript    | Python                | OpenCv            |
-| Jquery        | MySql                 | Adobe XD          |
-| HTML          | Relational Database   | UiUx Design       |
-| CSS           | JSON                  | Figma             |
-| Bootstrap     | Git                   | Github            |
+<div align="left">
+    <ul>
+        <li>🔭 I’m currently working on Parliament Web Application</li>
+        <li>🌱 I’m currently learning React / React Native / MongoDB</li>
+        <li>👯 I’m looking to collaborate on Open Source Project</li>
+        <li>💬 Ask me about Laravel, MySql, Relational Database</li>
+        <li>📫 How to reach me: hasibulhasan442@gmail.com</li>
+        <li>😄 Pronouns: Shuvo</li>
+        <li>⚡ Fun fact: Thinking More</li>
+    </ul>
+</div>
+<div align="left">
+    <table>
+        <thead>
+            <tr>
+                <th>🔎 Tools</th>
+                <th>⭐ Star</th>
+                <th>🔎 Tools</th>
+                <th>⭐ Star</th>
+                <th>🔎 Tools</th>
+                <th>⭐ Star</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>React</td>
+                <td>⭐⭐⭐</td>
+                <td>Php</td>
+                <td>⭐⭐⭐⭐⭐</td>
+                <td>API</td>
+                <td>⭐⭐⭐⭐</td>
+                <td>API</td>
+                <td>⭐⭐⭐⭐</td>
+            <tr>
+            <tr>
+                <td>React Native</td>
+                <td>⭐⭐⭐</td>
+                <td>Laravel</td>
+                <td>⭐⭐⭐⭐⭐</td>
+                <td>Image Processing </td>
+                <td>⭐⭐⭐</td>
+            <tr>
+            <tr>
+                <td>JavaScript</td>
+                <td>⭐⭐⭐⭐</td>
+                <td>Python</td>
+                <td>⭐⭐⭐⭐</td>
+                <td>OpenCV </td>
+                <td>⭐⭐</td>
+            <tr>
+            <tr>
+                <td>Jquery</td>
+                <td>⭐⭐⭐⭐</td>
+                <td>MySql</td>
+                <td>⭐⭐⭐⭐⭐</td>
+                <td>Adobe XD </td>
+                <td>⭐⭐⭐</td>
+            <tr>
+            <tr>
+                <td>HTML</td>
+                <td>⭐⭐⭐⭐⭐</td>
+                <td>JSON</td>
+                <td>⭐⭐⭐⭐⭐</td>
+                <td>Figma </td>
+                <td>⭐⭐⭐</td>
+            <tr>
+            <tr>
+                <td>CSS</td>
+                <td>⭐⭐⭐⭐⭐</td>
+                <td>Relational Database</td>
+                <td>⭐⭐⭐⭐⭐</td>
+                <td>UiUx Design </td>
+                <td>⭐⭐⭐⭐</td>
+            <tr>
+            <tr>
+                <td>Bootstrap</td>
+                <td>⭐⭐⭐⭐⭐</td>
+                <td>Git</td>
+                <td>⭐⭐⭐⭐⭐</td>
+                <td>AJAX </td>
+                <td>⭐⭐⭐⭐⭐</td>
+            <tr>
+        </tbody>
+    </table>
+</div>
+
 
 
 
