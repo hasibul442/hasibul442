@@ -12,6 +12,14 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 
 <br />
 <br />
+- 🔭 I’m currently working on Parliament Web Application
+- 🌱 I’m currently learning React / React Native / MongoDB
+- 👯 I’m looking to collaborate on Open Source Project
+- 💬 Ask me about Laravel, MySql, Relational Database
+- 📫 How to reach me: hasibulhasan442@gmail.com
+- 😄 Pronouns: Shuvo
+- ⚡ Fun fact: Thinking More
+<br /><br />
 
 |               | Skills                |                   |
 | ---           | ---                   | ---               |
@@ -27,13 +35,7 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 
 
 
-- 🔭 I’m currently working on Parliament Web Application
-- 🌱 I’m currently learning React / React Native / MongoDB
-- 👯 I’m looking to collaborate on Open Source Project
-- 💬 Ask me about Laravel, MySql, Relational Database
-- 📫 How to reach me: hasibulhasan442@gmail.com
-- 😄 Pronouns: Shuvo
-- ⚡ Fun fact: Thinking More
+
 
 
 
