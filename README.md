@@ -13,6 +13,23 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 <br />
 <br />
 
+<p align="left">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=hasibul442" alt="hasibulhasan442" height="30" width="40" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hasibul442)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibul442)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasibul442&show_icons=true&count_private=true)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hasibul442)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hasibul442)
+
+![Profile views](https://gpvc.arturio.dev/hasibul442)
+
+
 
 <div align="left">
     <ul>
@@ -110,16 +127,3 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hasibul442)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibul442)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasibul442&show_icons=true&count_private=true)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hasibul442)
-
-![GitHub metrics](https://metrics.lecoq.io/hasibul442)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hasibul442)
-
-![Profile views](https://gpvc.arturio.dev/hasibul442)
