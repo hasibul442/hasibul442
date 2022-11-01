@@ -14,15 +14,15 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 <div>
         <h4 align="center">Skills</h4>
 
-<table>
-<thead>
-<tr>
-    <th align="center">Frontend</th>
-    <th align="center">Backend</th>
-    <th align="center">Database</th>
-    <th align="center">Tools</th>
-</tr>
-</thead>
+<table class="table">
+    <thead>
+        <tr>
+            <th align="center" width="25%">Frontend</th>
+            <th align="center">Backend</th>
+            <th align="center">Database</th>
+            <th align="center">Tools</th>
+        </tr>
+    </thead>
 </table>
 </div>
 
