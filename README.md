@@ -5,6 +5,12 @@
 <div>
 <h1 align="center">Mohammad Hasibul Hasan<br />
     <img src="https://gpvc.arturio.dev/hasibul442" alt="hasibulhasan442" />
+    <a href="https://github.com/hasibul442/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/hasibul442/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/hasibul442/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/hasibul442/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/hasibul442/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/hasibul442/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/hasibul442/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/hasibul442/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/hasibul442/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/prantok104/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/hasibul442/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/hasibul442/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
     </h1>
 <h6 align="center">I am Full Stack Developer looking to solve real world problems</h6>
 </div>
