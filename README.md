@@ -33,10 +33,6 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 
 
 
-
-
-
-
 <div align="left">
     <ul>
         <li>🔭 I’m currently working on Parliament Web Application</li>
@@ -119,10 +115,6 @@ I have a passion for learning and sharing my knowledge with others as publicly a
             <tr>
         </tbody>
     </table>
-</div>
-<div align="center">
-    <h3>📊 Weekly Development Breakdown</h3>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hasibul442&layout=compact" />
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
