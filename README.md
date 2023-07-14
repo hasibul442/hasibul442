@@ -4,7 +4,6 @@
 </div>
 <div>
 <h1 align="center">Mohammad Hasibul Hasan<br />
-    <img src="https://gpvc.arturio.dev/hasibul442" alt="hasibulhasan442" />
     <a href="https://github.com/hasibul442/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/hasibul442/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/hasibul442/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/hasibul442/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/hasibul442/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/hasibul442/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
