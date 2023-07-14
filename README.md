@@ -36,11 +36,11 @@ I have a passion for learning and sharing my knowledge with others as publicly a
 <div align="left">
     <ul>
         <li>🔭 I’m currently working on Parliament Web Application</li>
-        <li>🌱 I’m currently learning React / React Native / MongoDB</li>
+        <li>🌱 I’m currently learning React / React Native / MongoDB / Java Spring Boot</li>
         <li>👯 I’m looking to collaborate on Open Source Project</li>
-        <li>💬 Ask me about Laravel, MySql, Relational Database</li>
+        <li>💬 Ask me about Laravel, MySql, Relational Database, React</li>
         <li>📫 How to reach me: hasibulhasan442@gmail.com</li>
-        <li>😄 Pronouns: Shuvo</li>
+        <li>😄 Nick Name: Shuvo/Hasib</li>
         <li>⚡ Fun fact: Thinking More</li>
     </ul>
 </div>
